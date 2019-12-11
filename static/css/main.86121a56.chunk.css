@@ -1,0 +1,2 @@
+.App{justify-content:space-evenly}.App,.form{display:flex}.form{border:1px solid #000;padding:20px;flex-direction:column;width:400px;height:-webkit-fit-content;height:-moz-fit-content;height:fit-content}.form__input,.form__select{margin-bottom:20px}.form__error{color:red}.list{display:flex;flex-direction:column;height:500px;width:500px;font-size:20px}.list__user{float:right;color:#00f;text-align:right}.list__item{margin-bottom:10px}
+/*# sourceMappingURL=main.86121a56.chunk.css.map */
